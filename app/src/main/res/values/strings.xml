@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UserPortal</string>
+
+    <string name="info_login">Portal de usuario</string>
+    <string name="user_login">Usuario</string>
+    <string name="password_login">Contraseña</string>
+    <string name="btn_acept">Aceptar</string>
+    <string name="captcha_code_login">Codigo CAPTCHA</string>
+
+    <string name="infoTime">Tiempo disponible:</string>
+    <string name="time">00:00:00</string>
+    <string name="infoUser">usuario@nauta.com.cu</string>
+    <string name="nautaAccount">Cuenta Nauta</string>
+    <string name="blockDate">Fecha de bloqueo</string>
+    <string name="DeleteDate">Fecha de eliminacion</string>
+    <string name="accountType">Tipo de cuenta</string>
+    <string name="serviceType">Tipo de servicio</string>
+    <string name="accountCredit">Saldo de la cuenta</string>
+    <string name="mailAccount">Cuenta de correo</string>
+
+    <string name="recharge">Recargar</string>
+    <string name="infoRecharge">Introduce el código del cupón de recarga</string>
+
+    <string name="transfer">Transferir</string>
+    <string name="infoTransfer">Introduzca monto y destinatario</string>
+    <string name="cuc">CUC</string>
+</resources>
